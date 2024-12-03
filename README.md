@@ -10,4 +10,4 @@ I am Information Technology specialist <img src="https://media.giphy.com/media/W
 
 - :zap: In my free time, I read books and watch football
 
-
+My previous profile (not active because gmail linked to account was deleted): https://github.com/olzhing
